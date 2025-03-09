@@ -85,11 +85,4 @@ React for the frontend framework.
 Made with ❤️ by Naman Bikram Karki
 
 
-
-### Changes:
-- Replaced the placeholder "Your Name or GitHub Username" with **Naman Bikram Karki**.
-- Provided the link to your GitHub profile: [NamanKarki-nbk](https://github.com/NamanKarki-nbk).
-- Removed the "Screenshots" section as per your request.
-
-Feel free to make any further adjustments!
 ```
